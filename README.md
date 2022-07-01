@@ -2,7 +2,7 @@
 <br/>
 
 -	🔭 I’m currently working on a bachelor’s degree in Information Technology at SLIIT
--	🌱 I’m currently learning web development, UML diagrams and project management
+-	🌱 I’m currently learning software development, UML diagrams and project management
 -	👯 I’m looking to collaborate on web and mobile application development projects
 -	💬 Ask me about Programming and Software development lifecycle
 -	📫 How to reach me: karunanayake.sayuri@gmail.com
