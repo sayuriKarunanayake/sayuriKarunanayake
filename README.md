@@ -1,9 +1,9 @@
 ### Hi there, I'm Sayuri Karunanayake 👋
 <br/>
 
--	🔭 I’m currently working on a bachelor’s degree in Information Technology at SLIIT
--	🌱 I’m currently learning software development and testing, UML diagrams and project management
--	👯 I’m looking to collaborate on web and mobile application development projects
+-	🔭 BSc (Hons) in Information Technology Specialising in Information Technology degree holder at SLIIT
+-	🌱 I’m currently further enhancing my skills in areas such as software development, testing and UI designing 
+-	👯 I’m looking to collaborate on web application development projects as a developer and tester
 -	💬 Ask me about Programming and Software development lifecycle
 -	📫 How to reach me: karunanayake.sayuri@gmail.com
 
