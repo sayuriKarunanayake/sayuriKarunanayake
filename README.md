@@ -1,15 +1,10 @@
 ### Hi there, I'm Sayuri Karunanayake 👋
 <br/>
 
--	🔭 BSc (Hons) in Information Technology Specialising in Information Technology degree holder at SLIIT
--	🌱 I’m currently further enhancing my skills in areas such as software development, testing and UI designing 
--	👯 I’m looking to collaborate on web application development projects as a developer and tester
--	💬 Ask me about Programming and Software development lifecycle
--	📫 How to reach me: karunanayake.sayuri@gmail.com
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayuriKarunanayake&show_icons=true&theme=radical) 
-<br/>
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-🚀 BSc (Hons) in Information Technology graduate from SLIIT with experience in Software Quality Assurance and web application development.
+-🧪 Currently working as a QA Engineer, focusing on manual testing, automation testing, test planning, defect tracking, and improving application quality across web platforms.
+-🌱 Actively expanding my skills in Test Automation, performance testing, and modern QA practices.
+-💻 Passionate about both software testing and web application development, with a strong understanding of the Software Development Life Cycle (SDLC) and Agile methodologies.
+-🤝 Open to collaborating on QA, automation, and web application projects.
+-💬 Ask me about software testing, SDLC, QA processes, and web technologies.
+-📫 Reach me at: [karunanayake.sayuri@gmail.com](mailto:karunanayake.sayuri@gmail.com)
